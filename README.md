@@ -19,6 +19,15 @@ I'm an Artificial Intelligence student at **Aror University of Art, Architecture
 - 🥇 Best Presentation Award — ACIP Workshop, Aror University (Team Leader)
 - 📍 Based in Sukkur, Sindh, Pakistan
 - 📫 Reach me at **f23ari30@aror.edu.pk**
+- 🔭 Currently exploring: **LLMs, NLP pipelines & Computer Vision models**
+
+---
+
+### 🧠 Currently Working With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,java,cpp,mysql,git,github,vscode,linux&theme=light" />
+</p>
 
 ---
 
@@ -81,6 +90,22 @@ A library management system with separate admin and user roles for book borrowin
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mazhar-Younas&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mazhar-Younas/Mazhar-Younas/output/github-contribution-grid-snake.svg" width="100%" />
+</p>
+
+---
+
 ### 📫 Connect With Me
 
 <p align="center">
@@ -90,3 +115,5 @@ A library management system with separate admin and user roles for book borrowin
 </p>
 
 <p align="center"><i>Thanks for visiting my profile! ⭐ Feel free to explore my repositories.</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C3483&height=100&section=footer" width="100%" />
